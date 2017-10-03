@@ -3,7 +3,7 @@
 # What we do:
 ## Deep Learning and Algorithmic Design Consulting
 
-Through 2025, Modern businesses will further expand their IP portfolios into the domains of deep learning and artificial intelligence. Formulating IP of this nature into a patent, a licensable work, or as a well-documented trade secret requires more than just a company and a patent attorney—it will take honed experience with algorithms, businesses, and a respect for the state of the art in academia and industry. This is what is necessary to yield patents into true assets for protection or sale.
+Modern businesses will further expand their IP portfolios into the domains of deep learning and artificial intelligence. Formulating IP of this nature into a patent requires more than just a company and a patent attorney—it will take honed experience with algorithms, businesses, and a respect for the state of the art in academia and industry, from a voice outside of the technical team of the company. This alternative perspective is necessary to yield patents that become true assets for protection or sale.
 
 # Our Clients:
 ## Law Firms who help clients submit software algorithm and AI patents
